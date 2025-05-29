@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Teja</h1>
 <h3 align="center">A Passionate Software Developer From INDIA</h3>
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="200px" align="right" alt="Funny coding gif">
 
 - 🔭 I’m currently working on [Travel-Bank](https://github.com/vinaysteja2/TRAVEL-BANK_Micorservices_v_1.git)
 
