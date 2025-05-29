@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Software Developer From INDIA</h3>
 
 - 🔭 I’m currently working on [Travel-Bank](https://github.com/vinaysteja2/TRAVEL-BANK_Micorservices_v_1.git)
-- 
 - 👨‍💻 All of my projects are available at [https://github.com/vinaysteja2](https://github.com/vinaysteja2)
 
 <h3 align="left">Languages and Tools:</h3>
