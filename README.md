@@ -13,7 +13,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,docker,kubernetes,aws,postgres,redis,git,github,linux,nodejs,html,jenkins,kafka,postman,elastic,grafana,kibana" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,docker,kubernetes,aws,postgres,redis,git,github,linux,nodejs,html,jenkins,kafka,postman,elasticsearch,grafana,kibana" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vinay-teja-karpuram-12b67225a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:vinaysteja0231@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://github.com/vinaysteja2" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
 </p>
