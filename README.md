@@ -1,12 +1,12 @@
-<!-- Profile header with animation -->
+<!-- Header animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinay+Teja!;A+Passionate+Java+%7C+Full-Stack+Developer;Lover+of+Clean+Code+%26+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vinay+Teja;Passionate+Java+%7C+Full-Stack+Developer;Loves+Clean+Code+%26+Scalable+Architecture!" alt="Typing SVG" />
 </p>
 
-<!-- About -->
+<!-- Quick info -->
 <p align="center">
   🔭 Currently building <strong><a href="https://github.com/vinaysteja2/TRAVEL-BANK_Micorservices_v_1.git">Travel-Bank</a></strong><br/>
-  👨‍💻 Checkout my work on <a href="https://github.com/vinaysteja2">GitHub</a>
+  👨‍💻 Checkout my projects on <a href="https://github.com/vinaysteja2">GitHub</a>
 </p>
 
 ---
@@ -22,16 +22,16 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaysteja2&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaysteja2&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vinaysteja2&theme=radical&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 📈 Contribution Graph (Last 6 months)
+### 📈 Contribution Graph (6 Months)
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=vinaysteja2&theme=github-light" width="90%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinaysteja2&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ---
