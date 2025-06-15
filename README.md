@@ -21,7 +21,8 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaysteja2&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" width="45%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=vinaysteja2&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" width="45%" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=vinaysteja2&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vinaysteja2&theme=radical&hide_border=true" width="45%" />
 </p>
 
