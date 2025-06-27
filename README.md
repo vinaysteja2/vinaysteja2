@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 Contribution Graph (6 Months)
+### 📈 Contribution Graph (6 Months.)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaysteja2&theme=github-compact&hide_border=true" width="95%"/>
