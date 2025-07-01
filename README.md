@@ -13,7 +13,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Toolls
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,docker,kubernetes,aws,postgres,redis,git,github,linux,nodejs,html,jenkins,kafka,postman,elasticsearch,grafana,kibana" />
