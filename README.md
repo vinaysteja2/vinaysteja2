@@ -7,9 +7,9 @@
 <p align="center">
   🔭 Currently building <strong><a href="https://github.com/vinaysteja2/TRAVEL-BANK_Micorservices_v_1.git">Travel-Bank APP</a></strong><br/>
 </p>
-<p align="center">
+<!-- <p align="center">
   🔭 Currently building <strong><a href="https://github.com/vinaysteja2/TRAVEL-BANK_Micorservices_v_1.git">Spring Securtiy</a></strong><br/>
-</p>
+</p> -->
 
 ---
 
